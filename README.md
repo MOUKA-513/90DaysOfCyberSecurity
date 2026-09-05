@@ -46,11 +46,7 @@ The daily modules cover essential and advanced topics, including:
 - Landing the job: a one-page resume and an AI-assisted job-search pipeline with career-ops
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
-## 🚀 Interactive Version Available!
 
-Prefer a visual, clickable interface? Try the community-built **[Interactive 90-Day Cybersecurity Roadmap](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)** — filter by phase, track your progress, and access all resources in one place.
-
-👉 **[Launch Live Demo](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/)**
 ## 🎯 Goals and Audience
 
 ### 📌 Goals
@@ -201,6 +197,9 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 2. **Evaluate (Day 94):** paste 10-20 postings you found on Indeed or LinkedIn. Only apply to roles that score 4.0/5 or higher; treat it as a filter, not a spray-and-pray tool.
 3. **Apply and prepare (Day 95):** generate tailored CVs for your shortlist, apply, and use the interview-prep mode to build your STAR stories before the first call.
 
+## 🔗 Community Projects
+
+- [Interactive 90-Day Cybersecurity Roadmap](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/) by @MOUKA-513 — filter by phase and open every resource from one page ([source](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)).
 
 
 ## Translations

@@ -1,27 +1,31 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="farhanashrafdev%2F90DaysOfCyberSecurity | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Goals and Audience](#goals-and-audience)
-- [Daily Breakdown](#daily-breakdown)
-  - [Day 1-7: Network+ Concepts](#network+-concepts)
-  - [Day 8-14: Security+ Concepts](#Security+-concepts)
-  - [Day 15-28: Linux Tutorials](#linux-tutorials)
-  - [Day 29-42: Python](#python)
-  - [Day 43-56: Traffic Analysis](#traffic-analysis)
-  - [Day 57-63: Git](#git)
-  - [Day 64-70: ELK](#elk)
-  - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
-  - [Day 85-90: Hacking](#hacking)
-  - [Day 91-92: One Page Resume](#one-page-resume)
-  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Goals and Audience](#-goals-and-audience)
+- [Start Here](#-start-here)
+- Daily Breakdown
+  - [Day 1-7: Network+](#day-1-7-network)
+  - [Day 8-14: Security+](#day-8-14-security)
+  - [Day 15-28: Linux](#day-15-28-linux)
+  - [Day 29-42: Python](#day-29-42-python)
+  - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
+  - [Day 57-63: Git](#day-57-63-git)
+  - [Day 64-70: ELK](#day-64-70-elk)
+  - [Day 71-77: Cloud Platforms (GCP, AWS or Azure)](#day-71-77-cloud-platforms)
+  - [Day 78-84: Review and Practice](#day-78-84-review-and-practice)
+  - [Day 85-90: Hacking](#day-85-90-hacking)
+- Bonus: Landing the Job
+  - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
+  - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Translations](#translations)
+- [Contributors](#-contributors)
 
 ## 📘 Introduction
 
@@ -39,6 +43,7 @@ The daily modules cover essential and advanced topics, including:
 - SIEM tools and log analysis using the ELK stack
 - Cloud security with GCP, AWS and Azure
 - Penetration testing and ethical hacking
+- Landing the job: a one-page resume and an AI-assisted job-search pipeline with career-ops
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
 ## 🚀 Interactive Version Available!
@@ -73,6 +78,18 @@ This repository is ideal for:
 
 No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
 
+## 🚀 Start Here
+
+New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
+
+- **Time budget:** aim for 1-2 focused hours a day. The day numbers are a guide, not a deadline; it is fine to spend longer on a topic.
+- **Follow the order:** Days 1-28 (networking, security basics, Linux) are the foundation everything else builds on. Do not skip ahead to hacking.
+- **Certifications are optional:** the Network+ and Security+ playlists teach the concepts you need. You do not have to sit the exams to follow this plan or to get a first job.
+- **Track your progress:** fork this repo (or copy the plan into a notes file) and tick off each day as you finish it.
+- **Everything is free:** if a site puts content behind a paywall, use the alternatives listed in the same section or in [`learn.md`](./learn.md).
+- **Questions or study buddies:** use [GitHub Discussions](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/discussions). Issues are for broken links and content fixes.
+- **Prefer another language?** See [Translations](#translations).
+
 ## Day 1-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
@@ -95,7 +112,8 @@ No prior experience is required, though basic familiarity with computers, networ
 
 
 ## Day 29-42: Python
-- Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
+- Watch freeCodeCamp's [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) (free, ~4.5 hours)
+- Complete Codecademy's Learn Python Track (the free tier covers the basics; later lessons need a subscription): https://codecademy.com/learn/learn-python
 - Python.org: https://www.python.org/
 - Real Python: https://realpython.com/
 - Talk Python to Me: https://talkpython.fm/
@@ -111,8 +129,9 @@ No prior experience is required, though basic familiarity with computers, networ
 - Take the Wireshark University course: https://www.wireshark.org/#educationalContent
 - Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
-- Read through the Suricata on pfSense guide: https://doc.pfsense.org/index.php/Suricata
-  ### Youtube:
+- Read through the Suricata Quickstart guide: https://docs.suricata.io/en/latest/quickstart.html
+
+### Youtube:
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
@@ -123,8 +142,8 @@ No prior experience is required, though basic familiarity with computers, networ
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
 ## Day 64-70: ELK
-- Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
-- Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
+- Follow the Complete Guide to the ELK Stack on Logz.io: https://logz.io/learn/complete-guide-elk-stack/
+- Get started with the Elastic Stack using the official docs: https://www.elastic.co/docs/get-started
 
 ## Day 71-77: Cloud Platforms
 
@@ -147,6 +166,12 @@ No prior experience is required, though basic familiarity with computers, networ
 - Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
 - Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
 
+## Day 78-84: Review and Practice
+- Go back through Days 1-77 and review any weak areas.
+- Complete hands-on challenges on TryHackMe: https://tryhackme.com
+- Set up a home lab using VirtualBox or VMware to practice what you have learned.
+- Try building a small project that combines networking, Linux, Python, and security concepts.
+
 ## Day 85-90: Hacking
 
 - Try to hack the challenges on Hack the Box: https://hackthebox.com
@@ -159,12 +184,34 @@ No prior experience is required, though basic familiarity with computers, networ
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
- This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical   skills.
+  This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.
+- Save a copy of your finished resume as Markdown (`cv.md`) as well; you will reuse it with career-ops on Day 93. List the labs, CTF rooms and projects from Days 15-90 as hands-on experience.
+
 ## Day 93-95: Where and How to Apply
-Search for jobs on Indeed: https://indeed.com
-Look for opportunities on LinkedIn: https://linkedin.com
+- Search for jobs on Indeed: https://indeed.com
+- Look for opportunities on LinkedIn: https://linkedin.com
+- Explore entry-level cybersecurity roles and career pathways on CyberSeek: https://www.cyberseek.org/pathway.html
+
+### Run your job search with career-ops
+[career-ops](https://github.com/career-ops-hq/career-ops) is a free, open-source job-search system that runs inside an AI coding CLI such as Claude Code, Codex, OpenCode, GitHub Copilot CLI or Antigravity CLI ([free tier](https://github.com/career-ops-hq/career-ops/blob/main/docs/FREE_TIER.md), no API key needed). Paste a job URL and it scores the posting against your `cv.md` (1-5), generates an ATS-friendly tailored PDF and tracks every application in one place. It never applies for you; you always review and submit.
+
+Before using any AI CLI, redact sensitive personal data in `cv.md` (for example address/phone) and review the tool/provider’s privacy and data-retention settings before pasting your resume content.
+
+1. **Set up (Day 93):** install [Node.js](https://nodejs.org), skim the [setup guide](https://github.com/career-ops-hq/career-ops/blob/main/docs/SETUP.md), then run `npx @santifer/career-ops init`. Good security habit: `npx` downloads and runs the latest release, so check the [release notes](https://github.com/career-ops-hq/career-ops/releases) before running it (pin a version with `@santifer/career-ops@<version>` if you want a reproducible install). Open your AI CLI in the new `career-ops` folder and follow the onboarding chat. Tell it your target roles (for example *SOC analyst, security analyst, junior penetration tester*) so the evaluations fit entry-level security jobs.
+2. **Evaluate (Day 94):** paste 10-20 postings you found on Indeed or LinkedIn. Only apply to roles that score 4.0/5 or higher; treat it as a filter, not a spray-and-pray tool.
+3. **Apply and prepare (Day 95):** generate tailored CVs for your shortlist, apply, and use the interview-prep mode to build your STAR stories before the first call.
 
 
+
+## Translations
+
+- [Arabic / العربية](translations/arabic/README.md)
+- [Chinese / 中文](translations/chinese/README.md)
+- [French / Francais](translations/french/README.md)
+- [Hindi / हिंदी](translations/hindi/README.md)
+- [Portuguese / Portugues](translations/portuguese/README.md)
+- [Russian / Русский](translations/russian/README.md)
+- [Spanish / Espanol](translations/spanish/README.md)
 
 ## 🎉 Contributors
 
@@ -202,6 +249,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArbenP"><img src="https://avatars.githubusercontent.com/u/62248907?v=4?s=100" width="100px;" alt="arbenp"/><br /><sub><b>arbenp</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=ArbenP" title="Documentation">📖</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3AArbenP" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/paduh"><img src="https://avatars.githubusercontent.com/u/20698595?v=4?s=100" width="100px;" alt="paduh"/><br /><sub><b>paduh</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=paduh" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/emmanuel-ferdman"><img src="https://avatars.githubusercontent.com/u/35470921?v=4?s=100" width="100px;" alt="Emmanuel Ferdman"/><br /><sub><b>Emmanuel Ferdman</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3Aemmanuel-ferdman" title="Bug reports">🐛</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=emmanuel-ferdman" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/king-tri-ton"><img src="https://avatars.githubusercontent.com/u/53092931?v=4?s=100" width="100px;" alt="King Triton"/><br /><sub><b>King Triton</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=king-tri-ton" title="Documentation">📖</a> <a href="#translation-king-tri-ton" title="Translation">🌍</a></td>
     </tr>
   </tbody>
 </table>

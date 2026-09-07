@@ -199,8 +199,7 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 
 ## 🔗 Community Projects
 
-
-- [Interactive 90-Day Cybersecurity Roadmap](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/) by @MOUKA-513 — filter by phase and open every resource from one page ([source](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)).
+- [Interactive 90-Day Cybersecurity Roadmap](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/) by [@MOUKA-513](https://github.com/MOUKA-513) — filter by phase and open every resource from one page ([source](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)).
 
 
 ## Translations

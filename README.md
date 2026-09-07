@@ -24,6 +24,7 @@
 - Bonus: Landing the Job
   - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
   - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Community Projects](#-community-projects)
 - [Translations](#translations)
 - [Contributors](#-contributors)
 

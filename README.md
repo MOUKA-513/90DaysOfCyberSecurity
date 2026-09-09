@@ -24,6 +24,7 @@
 - Bonus: Landing the Job
   - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
   - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Community Projects](#community-projects)
 - [Translations](#translations)
 - [Contributors](#-contributors)
 
@@ -197,10 +198,11 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 2. **Evaluate (Day 94):** paste 10-20 postings you found on Indeed or LinkedIn. Only apply to roles that score 4.0/5 or higher; treat it as a filter, not a spray-and-pray tool.
 3. **Apply and prepare (Day 95):** generate tailored CVs for your shortlist, apply, and use the interview-prep mode to build your STAR stories before the first call.
 
-## 🔗 Community Projects
+## Community Projects
 
-- [Interactive 90-Day Cybersecurity Roadmap](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/) by @MOUKA-513 — filter by phase and open every resource from one page ([source](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)).
+Awesome community-built tools and resources that complement the 90-day plan:
 
+- [Interactive 90-Day Cybersecurity Roadmap](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/) by [@MOUKA-513](https://github.com/MOUKA-513) — Interactive web-based roadmap that lets you filter by phase and open every resource from one page ([source](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive))
 
 ## Translations
 

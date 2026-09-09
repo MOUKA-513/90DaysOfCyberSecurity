@@ -81,6 +81,34 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "mradil04",
+      "name": "Mr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199904212?v=4",
+      "profile": "https://github.com/mradil04",
+      "contributions": [
+        "design",
+        "example"
+      ]
+    },
+    {
+      "login": "cicada4O4",
+      "name": "Parth Dinesh Mane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254688267?v=4",
+      "profile": "http://parthmane.com",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "LUser-12",
+      "name": "LUser-12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183823828?v=4",
+      "profile": "https://github.com/LUser-12",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
